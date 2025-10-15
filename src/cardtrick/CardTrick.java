@@ -20,7 +20,7 @@ public class CardTrick {
             Scanner input=new Scanner(System.in);
             
             //an array to hold 7 cards
-            Card[] hand=new Card[7];
+            Card[] hand=new Card[9];
             
             //create random class object to generate random numbers
             Random random=new Random();
